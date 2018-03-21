@@ -1,0 +1,155 @@
+.logo {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 250px;
+    margin-bottom: 55px;
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: white;
+    max-width: 500px;
+    margin-left: 712px;
+    margin-right: auto;
+    font-family: 'Josefin Slab', serif;
+
+}
+
+.navbar a {
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.dropdown {
+    font-family: 'Josefin Slab', serif;
+    display: inline-block;
+
+}
+
+.dropdown .dropbtn {
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+}
+
+.dropdown-content {
+   display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+   float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #adb3bc;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+h1 {
+    margin-left: 850px;
+    margin-right: auto;
+    margin-top: 50px;
+    max-width: 500px;
+    margin-bottom: 100px;
+    font-family: 'Josefin Slab', serif;
+
+}
+
+h2 {
+    margin-left: 875px;
+    font-family: 'Josefin Slab', serif;
+
+}
+
+
+footer {
+    max-width: 50px;
+    margin-left: 320px;
+    margin-right: auto;
+    margin-top: 100px;
+    
+}
+
+.contact1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+
+.contact2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-bottom: 100px;
+}
+
+.contact3 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-bottom: 100px;
+}
+
+.thank {
+    margin-top: 20px;
+    max-width: 610px;
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.closing {
+     margin-top: 29px;
+    max-width: 610px;
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    margin-left: 860px;
+    margin-right: auto;
+}
+
+.name {
+    margin-top: 20px;
+    margin-bottom: 175px;
+    max-width: 610px;
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    margin-left: 860px;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
