@@ -182,6 +182,43 @@ footer {
     to {opacity: 1}
 }
 
+.foot {
+    display: inline-block;
+    width: 1280px;
+    margin-left: 550px;
+}
+footer {
+    width: 1280px;
+}
+
+.twit {
+    
+    float: left;
+    padding: 10px;
+}
+
+.insta {
+    float: left;
+    padding: 10px;
+}
+
+.face {
+    float: left;
+    padding: 10px;
+}
+
+.linked {
+    float: left;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
 
 
 
